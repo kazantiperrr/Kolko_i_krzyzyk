@@ -1,0 +1,84 @@
+\hypertarget{class_k_xC3_xB3_xC5_x82ko__i__krzy_xC5_xBCyk_1_1_app}{}\section{Kółko\+\_\+i\+\_\+krzyżyk.\+App Class Reference}
+\label{class_k_xC3_xB3_xC5_x82ko__i__krzy_xC5_xBCyk_1_1_app}\index{Kółko\+\_\+i\+\_\+krzyżyk.\+App@{Kółko\+\_\+i\+\_\+krzyżyk.\+App}}
+
+
+Interaction logic for App.\+xaml  
+
+
+
+
+Inheritance diagram for Kółko\+\_\+i\+\_\+krzyżyk.\+App\+:
+% FIG 0
+
+
+Collaboration diagram for Kółko\+\_\+i\+\_\+krzyżyk.\+App\+:
+% FIG 1
+\subsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+void \hyperlink{class_k_xC3_xB3_xC5_x82ko__i__krzy_xC5_xBCyk_1_1_app_a6791a860b24c88b519ae8ed7b8d4f7d0}{Initialize\+Component} ()
+\begin{DoxyCompactList}\small\item\em Initialize\+Component \end{DoxyCompactList}\item 
+void \hyperlink{class_k_xC3_xB3_xC5_x82ko__i__krzy_xC5_xBCyk_1_1_app_a6791a860b24c88b519ae8ed7b8d4f7d0}{Initialize\+Component} ()
+\begin{DoxyCompactList}\small\item\em Initialize\+Component \end{DoxyCompactList}\end{DoxyCompactItemize}
+\subsection*{Static Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+static void \hyperlink{class_k_xC3_xB3_xC5_x82ko__i__krzy_xC5_xBCyk_1_1_app_a3d0d6bd233599f18ebddf2eaae551dec}{Main} ()
+\begin{DoxyCompactList}\small\item\em Application Entry Point. \end{DoxyCompactList}\item 
+static void \hyperlink{class_k_xC3_xB3_xC5_x82ko__i__krzy_xC5_xBCyk_1_1_app_a3d0d6bd233599f18ebddf2eaae551dec}{Main} ()
+\begin{DoxyCompactList}\small\item\em Application Entry Point. \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\subsection{Detailed Description}
+Interaction logic for App.\+xaml 
+
+\hyperlink{class_k_xC3_xB3_xC5_x82ko__i__krzy_xC5_xBCyk_1_1_app}{App} 
+
+\subsection{Member Function Documentation}
+\mbox{\Hypertarget{class_k_xC3_xB3_xC5_x82ko__i__krzy_xC5_xBCyk_1_1_app_a6791a860b24c88b519ae8ed7b8d4f7d0}\label{class_k_xC3_xB3_xC5_x82ko__i__krzy_xC5_xBCyk_1_1_app_a6791a860b24c88b519ae8ed7b8d4f7d0}} 
+\index{Kółko\+\_\+i\+\_\+krzyżyk\+::\+App@{Kółko\+\_\+i\+\_\+krzyżyk\+::\+App}!Initialize\+Component@{Initialize\+Component}}
+\index{Initialize\+Component@{Initialize\+Component}!Kółko\+\_\+i\+\_\+krzyżyk\+::\+App@{Kółko\+\_\+i\+\_\+krzyżyk\+::\+App}}
+\subsubsection{\texorpdfstring{Initialize\+Component()}{InitializeComponent()}\hspace{0.1cm}{\footnotesize\ttfamily [1/2]}}
+{\footnotesize\ttfamily void Kółko\+\_\+i\+\_\+krzyżyk.\+App.\+Initialize\+Component (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+Initialize\+Component 
+
+\mbox{\Hypertarget{class_k_xC3_xB3_xC5_x82ko__i__krzy_xC5_xBCyk_1_1_app_a6791a860b24c88b519ae8ed7b8d4f7d0}\label{class_k_xC3_xB3_xC5_x82ko__i__krzy_xC5_xBCyk_1_1_app_a6791a860b24c88b519ae8ed7b8d4f7d0}} 
+\index{Kółko\+\_\+i\+\_\+krzyżyk\+::\+App@{Kółko\+\_\+i\+\_\+krzyżyk\+::\+App}!Initialize\+Component@{Initialize\+Component}}
+\index{Initialize\+Component@{Initialize\+Component}!Kółko\+\_\+i\+\_\+krzyżyk\+::\+App@{Kółko\+\_\+i\+\_\+krzyżyk\+::\+App}}
+\subsubsection{\texorpdfstring{Initialize\+Component()}{InitializeComponent()}\hspace{0.1cm}{\footnotesize\ttfamily [2/2]}}
+{\footnotesize\ttfamily void Kółko\+\_\+i\+\_\+krzyżyk.\+App.\+Initialize\+Component (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+Initialize\+Component 
+
+\mbox{\Hypertarget{class_k_xC3_xB3_xC5_x82ko__i__krzy_xC5_xBCyk_1_1_app_a3d0d6bd233599f18ebddf2eaae551dec}\label{class_k_xC3_xB3_xC5_x82ko__i__krzy_xC5_xBCyk_1_1_app_a3d0d6bd233599f18ebddf2eaae551dec}} 
+\index{Kółko\+\_\+i\+\_\+krzyżyk\+::\+App@{Kółko\+\_\+i\+\_\+krzyżyk\+::\+App}!Main@{Main}}
+\index{Main@{Main}!Kółko\+\_\+i\+\_\+krzyżyk\+::\+App@{Kółko\+\_\+i\+\_\+krzyżyk\+::\+App}}
+\subsubsection{\texorpdfstring{Main()}{Main()}\hspace{0.1cm}{\footnotesize\ttfamily [1/2]}}
+{\footnotesize\ttfamily static void Kółko\+\_\+i\+\_\+krzyżyk.\+App.\+Main (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [static]}}
+
+
+
+Application Entry Point. 
+
+\mbox{\Hypertarget{class_k_xC3_xB3_xC5_x82ko__i__krzy_xC5_xBCyk_1_1_app_a3d0d6bd233599f18ebddf2eaae551dec}\label{class_k_xC3_xB3_xC5_x82ko__i__krzy_xC5_xBCyk_1_1_app_a3d0d6bd233599f18ebddf2eaae551dec}} 
+\index{Kółko\+\_\+i\+\_\+krzyżyk\+::\+App@{Kółko\+\_\+i\+\_\+krzyżyk\+::\+App}!Main@{Main}}
+\index{Main@{Main}!Kółko\+\_\+i\+\_\+krzyżyk\+::\+App@{Kółko\+\_\+i\+\_\+krzyżyk\+::\+App}}
+\subsubsection{\texorpdfstring{Main()}{Main()}\hspace{0.1cm}{\footnotesize\ttfamily [2/2]}}
+{\footnotesize\ttfamily static void Kółko\+\_\+i\+\_\+krzyżyk.\+App.\+Main (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [static]}}
+
+
+
+Application Entry Point. 
+
+
+
+The documentation for this class was generated from the following files\+:\begin{DoxyCompactItemize}
+\item 
+\hyperlink{_app_8xaml_8cs}{App.\+xaml.\+cs}\item 
+obj/\+Debug/\hyperlink{_app_8g_8cs}{App.\+g.\+cs}\item 
+obj/\+Debug/\hyperlink{_app_8g_8i_8cs}{App.\+g.\+i.\+cs}\end{DoxyCompactItemize}

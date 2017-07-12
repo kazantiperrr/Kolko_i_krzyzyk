@@ -1,0 +1,14 @@
+c:\users\kmet\documents\visual studio 2017\Projects\Kółko_i_krzyżyk\Kółko_i_krzyżyk\obj\Debug\Kółko_i_krzyżyk.csprojResolveAssemblyReference.cache
+c:\users\kmet\documents\visual studio 2017\Projects\Kółko_i_krzyżyk\Kółko_i_krzyżyk\obj\Debug\MainWindow.g.cs
+c:\users\kmet\documents\visual studio 2017\Projects\Kółko_i_krzyżyk\Kółko_i_krzyżyk\obj\Debug\App.g.cs
+c:\users\kmet\documents\visual studio 2017\Projects\Kółko_i_krzyżyk\Kółko_i_krzyżyk\obj\Debug\Kółko_i_krzyżyk_MarkupCompile.cache
+c:\users\kmet\documents\visual studio 2017\Projects\Kółko_i_krzyżyk\Kółko_i_krzyżyk\obj\Debug\Kółko_i_krzyżyk_MarkupCompile.lref
+c:\users\kmet\documents\visual studio 2017\Projects\Kółko_i_krzyżyk\Kółko_i_krzyżyk\bin\Debug\Kółko_i_krzyżyk.exe.config
+c:\users\kmet\documents\visual studio 2017\Projects\Kółko_i_krzyżyk\Kółko_i_krzyżyk\bin\Debug\Kółko_i_krzyżyk.exe
+c:\users\kmet\documents\visual studio 2017\Projects\Kółko_i_krzyżyk\Kółko_i_krzyżyk\bin\Debug\Kółko_i_krzyżyk.pdb
+c:\users\kmet\documents\visual studio 2017\Projects\Kółko_i_krzyżyk\Kółko_i_krzyżyk\obj\Debug\MainWindow.baml
+c:\users\kmet\documents\visual studio 2017\Projects\Kółko_i_krzyżyk\Kółko_i_krzyżyk\obj\Debug\Kółko_i_krzyżyk.g.resources
+c:\users\kmet\documents\visual studio 2017\Projects\Kółko_i_krzyżyk\Kółko_i_krzyżyk\obj\Debug\Kółko_i_krzyżyk.Properties.Resources.resources
+c:\users\kmet\documents\visual studio 2017\Projects\Kółko_i_krzyżyk\Kółko_i_krzyżyk\obj\Debug\Kółko_i_krzyżyk.csproj.GenerateResource.Cache
+c:\users\kmet\documents\visual studio 2017\Projects\Kółko_i_krzyżyk\Kółko_i_krzyżyk\obj\Debug\Kółko_i_krzyżyk.exe
+c:\users\kmet\documents\visual studio 2017\Projects\Kółko_i_krzyżyk\Kółko_i_krzyżyk\obj\Debug\Kółko_i_krzyżyk.pdb
